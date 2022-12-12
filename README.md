@@ -44,7 +44,7 @@
   Contact
 </h2>
 <p align="center">
-  <a href="mailto:ormartin@student.42.fr">ormartin@student.42.fr</a>
+  <a href="mailto:orianemartinpro">orianemartinpro@gmail.com</a>
    <br><br>This project was coded in a team of two. You can click <a href="https://github.com/Tscandol">here</a> to visit Tscandol's Github !
 
 </p>
